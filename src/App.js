@@ -9,12 +9,12 @@ import { Routing } from "./main/05_router/Routing";
 function Home(){
   return (
     <div>
-      <h1>HOME</h1>
+      <h1>HOMEPAGE</h1>
     </div>
   )
 }
 function App() {
-  const user = "nealebanagale"
+  const user = "nealebanagale";
   return  (
     <div>
       <Routes>
